@@ -217,7 +217,7 @@ onMounted(() => {
       :rows="5"
     >
       <Column
-        field="PID"
+        field="PID_FORMATTED"
         header="Parcel ID"
       ></Column>
       <Column
